@@ -1,3 +1,23 @@
+# KEOH Design Skill
+
+> **Fork von [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** by Next Level Builder, erweitert von [KEOH Lab](https://keven-ohlew.com).
+>
+> Original-Tool: AI-Skill für professionelle UI/UX-Design-Entscheidungen via Claude Code, Cursor und weitere AI-Assistenten.
+> Diese Fork-Variante: ergänzt um DACH-Compliance-Patterns, KEOH-Editorial-Color-Palette und Customer-Success-Onboarding-Reasoning.
+
+## Meine Erweiterungen
+
+- **KEOH Editorial Color Palette** (Cream-Rust-Gold aus Styleguide 2 Hell)
+- **DACH-Compliance-Patterns** (DSGVO, EU-AI-Act, BFSG)
+- **Customer-Success-Onboarding-Reasoning** (für SaaS-Plattformen)
+- **Cloudflare-Workers-Stack-Pattern** ergänzt
+
+Siehe `MODIFICATIONS.md` für Details.
+
+---
+
+## Original-README
+
 # [UI UX Pro Max](https://uupm.cc)
  
 <p align="center">
